@@ -1,8 +1,11 @@
 # 📊 Data Analytics Power BI Project - Insurance Data Analysis
 
 This project presents a complete **Insurance Data Dashboard** built in **Power BI**, analyzing claims, premiums, policies, and customer distribution. It utilizes DAX for custom KPIs and provides a detailed drill-down for financial insights and user interactions.
+
 ![Dashboard Page 1](link-to-your-screenshot-1)
-![Drill-Down Table Page](link-to-your-screenshot-2)
+
+![Drill-Down Table Page](Main_page.png)
+
 ---
 
 ## 💼 What I did in this project :
@@ -75,8 +78,6 @@ This project presents a complete **Insurance Data Dashboard** built in **Power B
 - UI/UX Designing in BI Dashboards
 
 ---
-
-> *(Upload images in GitHub repo and link them below)*
 
 
 
