@@ -2,9 +2,9 @@
 
 This project presents a complete **Insurance Data Dashboard** built in **Power BI**, analyzing claims, premiums, policies, and customer distribution. It utilizes DAX for custom KPIs and provides a detailed drill-down for financial insights and user interactions.
 
-![Dashboard Page 1](link-to-your-screenshot-1)
+![Dashboard Page 1](Main_page.png)
 
-![Drill-Down Table Page](Main_page.png)
+![Drill-Down Table Page](Drill_down_table_page.png)
 
 ---
 
